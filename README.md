@@ -1,4 +1,3 @@
-https://blog.naver.com/chandong83/221973324476
 # tornado-server-simple
 This is simple tornado server.(Text and Image communication example)
  1. ImageHandler: Image send -> receive -> send 
